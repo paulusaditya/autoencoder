@@ -73,9 +73,9 @@ Berikut perbandingan antara gambar input dan hasil rekonstruksi dari autoencoder
 
 | Input                          | Rekonstruksi                      |
 |--------------------------------|-----------------------------------|
-| ![Input](samples/input1.jpg)   | ![Output](samples/output1.jpg)   |
-| ![Input](samples/input2.jpg)   | ![Output](samples/output2.jpg)   |
-| ![Input](samples/input3.jpg)   | ![Output](samples/output3.jpg)   |
+| ![Input](test/angry/PrivateTest_88305.jpg)      | ![Output](train/angry/Training_88305.jpg)    |
+| ![Input](test/fear/PrivateTest_134207.jpg)      | ![Output](train/fear/Training_134207.jpg)   |
+| ![Input](test/happy/PrivateTest_95094.jpg)   | ![Output](train/happy/Training_95094.jpg)   |
 
 > 📌 Hasil rekonstruksi mempertahankan bentuk umum wajah dan ekspresi, meskipun terdapat sedikit kehilangan detail halus.
 
